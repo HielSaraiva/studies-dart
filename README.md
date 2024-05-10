@@ -1,4 +1,4 @@
-# Dart Course
+# Dart Studies
 -  Fundamentals
 -  Control structures
 -  Functions
